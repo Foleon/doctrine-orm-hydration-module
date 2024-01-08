@@ -1,5 +1,5 @@
 {
-  "name": "api-skeletons/doctrine-orm-hydration-module",
+  "name": "foleon/doctrine-orm-hydration-module",
   "license": "MIT",
   "description": "Doctrine ORM hydrators for Laminas",
   "keywords": [
